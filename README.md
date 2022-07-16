@@ -1,6 +1,7 @@
 # Biblioteca-AEDs
 
-Trabalho de Algoritmo e Estrutura de Dados (3º Período)
+Trabalho de Algoritmo e Estrutura de Dados (3º Período):
+
 CEFET started to rebuild its library collection, and for the virtual management of the library it was decided to select a student of Computer Engineering to create a new management software.
 to select a student of Computer Engineering to create a new management software. At
 At the time of the selection, you were lucky enough to be chosen to develop this software. Now the CEFET
