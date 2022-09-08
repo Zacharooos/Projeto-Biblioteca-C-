@@ -39,11 +39,5 @@ student's ID;
 store the information, it must be encrypted and, in turn, decrypted when importing the data
 data;
 
-5) UI (bonus worth 0.5 points): it is desirable, and was requested by the managers, that a graphical interface be developed to make the use of the system more friendly.
-It is worth remembering that the management software is used by the library staff, that is, the students do not interact directly with it.
-interact directly with it. The listing and search of the elements must show all the information
-information about each element. The software must be developed in C language and have a command line interface.
-In case of implementation of item 5, all the source code (including the UI) can be implemented in C++.
-1 of 2
 
 Translated with www.DeepL.com/Translator (free version)
